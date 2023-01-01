@@ -208,9 +208,9 @@ Config.Products = {
             slot = 9,
         },
         [10] = {
-            name = "firework2",
-            price = 50,
-            amount = 50,
+            name = 'harness',
+            price = 2000,
+            amount = 10,
             info = {},
             type = "item",
             slot = 10,
