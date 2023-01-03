@@ -225,7 +225,7 @@ Config.Products = {
         },
         [12] = {
             name = "clothing_bag",
-            price = 500,
+            price = 50,
             amount = 50,
             info = {},
             type = "item",
