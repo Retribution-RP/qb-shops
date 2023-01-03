@@ -986,7 +986,7 @@ Config.Locations = {
     },
 
     -- Weedshop Locations
-    ["weedshop"] = {
+    --[[ ["weedshop"] = {
         ["label"] = "Smoke On The Water",
         ["coords"] = vector4(-1168.26, -1573.2, 4.66, 105.24),
         ["ped"] = 'a_m_y_hippy_01',
@@ -1000,7 +1000,7 @@ Config.Locations = {
         ["blipscale"] = 0.8,
         ["blipcolor"] = 0,
         ["delivery"] = vector4(-1162.13, -1568.57, 4.39, 328.52)
-    },
+    }, ]]
 
     -- Sea Word Locations
     ["seaword"] = {
