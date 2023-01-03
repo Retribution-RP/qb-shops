@@ -755,7 +755,7 @@ Config.Locations = {
         ["blipsprite"] = 402,
         ["blipscale"] = 0.8,
         ["blipcolor"] = 0,
-        ["delivery"] = vector4(2704.68, 3457.21, 55.54, 176.28)
+        ["delivery"] = vector4(2750.13, 3475.12, 55.68, 228.89)
     },
 
     ["hardware3"] = {
